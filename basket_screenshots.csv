@@ -1,0 +1,19 @@
+bucket_id,platform,city,currency,item_name,item_size,item_price,quantity,item_line_total,items_subtotal,handling_fee,delivery_fee,partner_fee,rain_fee,cart_total,collected_at_approx
+BLR-WIPRO-SARJAPUR-2026-10-16,Blinkit,"Bangalore, Wipro Sarjapur",INR,Coca-Cola Cola Soft Drink,2.25 ltr,87,1,87,189,2,0,,,191,2026-10-16 15:00 IST
+BLR-WIPRO-SARJAPUR-2026-10-16,Blinkit,"Bangalore, Wipro Sarjapur",INR,Modern 100% Whole Wheat Bread (Zero Maida),400 g,65,1,65,189,2,0,,,191,2026-10-16 15:00 IST
+BLR-WIPRO-SARJAPUR-2026-10-16,Blinkit,"Bangalore, Wipro Sarjapur",INR,Bingo Original Style Chilli Sprinkled Potato Chips,85 g,37,1,37,189,2,0,,,191,2026-10-16 15:00 IST
+CHENNAI-WIPRO-2026-10-16,Blinkit,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Coca-Cola Cola Soft Drink,2.25 ltr,87,1,87,176,12,30,,,218,2026-10-16 15:08 IST
+CHENNAI-WIPRO-2026-10-16,Blinkit,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Modern 100% Whole Wheat Bread (Zero Maida),400 g,52,1,52,176,12,30,,,218,2026-10-16 15:08 IST
+CHENNAI-WIPRO-2026-10-16,Blinkit,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Bingo Original Style Chilli Sprinkled Potato Chips,85 g,37,1,37,176,12,30,,,218,2026-10-16 15:08 IST
+BLR-WIPRO-SARJAPUR-ZEPTO-2026-10-16,Zepto,"Bangalore, Wipro Sarjapur",INR,Pepsi Soft Drink | Carbonated Beverage,2.25 L,95,1,95,193,,,,,2026-10-16 16:08 IST
+BLR-WIPRO-SARJAPUR-ZEPTO-2026-10-16,Zepto,"Bangalore, Wipro Sarjapur",INR,Modern - Zero Maida Whole Wheat Bread,400 g or 430 g,64,1,64,193,,,,,2026-10-16 16:08 IST
+BLR-WIPRO-SARJAPUR-ZEPTO-2026-10-16,Zepto,"Bangalore, Wipro Sarjapur",INR,Bingo! Original Style Chilli Sprinkled | Flat Cut Spicy Potato Chips Pack for Snacks,78 g,34,1,34,193,,,,,2026-10-16 16:08 IST
+CHENNAI-WIPRO-ELCOT-ZEPTO-2026-10-16,Zepto,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Pepsi Soft Drink | Carbonated Beverage,2.25 L,95,1,95,181,,,,,2026-10-16 16:12 IST
+CHENNAI-WIPRO-ELCOT-ZEPTO-2026-10-16,Zepto,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Modern - Zero Maida Whole Wheat Bread,400 g or 430 g,52,1,52,181,,,,,2026-10-16 16:12 IST
+CHENNAI-WIPRO-ELCOT-ZEPTO-2026-10-16,Zepto,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Bingo! Original Style Chilli Sprinkled | Flat Cut Spicy Potato Chips Pack for Snacks,78 g,34,1,34,181,,,,,2026-10-16 16:12 IST
+BLR-WIPRO-SARJAPUR-INSTAMART-2026-10-16,Instamart,"Bangalore, Wipro Sarjapur",INR,Bingo Original Style Chilli Sprinkled Potato Chips,78 g,35,1,35,194,10.01,,0,35.40,239,2026-10-16 16:33 IST
+BLR-WIPRO-SARJAPUR-INSTAMART-2026-10-16,Instamart,"Bangalore, Wipro Sarjapur",INR,Modern Whole Wheat Bread (No trans fat),400 g,65,1,65,194,10.01,,0,35.40,239,2026-10-16 16:33 IST
+BLR-WIPRO-SARJAPUR-INSTAMART-2026-10-16,Instamart,"Bangalore, Wipro Sarjapur",INR,Pepsi Soft Drink Bottle,2250 ml,94,1,94,194,10.01,,0,35.40,239,2026-10-16 16:33 IST
+CHENNAI-WIPRO-ELCOT-INSTAMART-2026-10-16,Instamart,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Bingo Original Style Chilli Sprinkled Potato Chips,78 g,35,1,35,181,10.01,,0,,191,2026-10-16 16:41 IST
+CHENNAI-WIPRO-ELCOT-INSTAMART-2026-10-16,Instamart,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Modern Whole Wheat Bread (No trans fat),400 g,52,1,52,181,10.01,,0,,191,2026-10-16 16:41 IST
+CHENNAI-WIPRO-ELCOT-INSTAMART-2026-10-16,Instamart,"Chennai, Wipro Elcot SEZ, Karapakkam",INR,Pepsi Soft Drink Bottle,2250 ml,94,1,94,181,10.01,,0,,191,2026-10-16 16:41 IST
