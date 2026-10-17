@@ -1,0 +1,101 @@
+﻿Order_ID,Order_Value,Platform,Product,Product_Category,Product_Count,Pack Size,Date,Time,City,MRP,Listed Price,Discount,Delivery Fee,Handling Fee,Rain Fee,Late Night Fee,Small Cart Fee,Platform Fee,Final Price,Day,Device (Apple/Android),Bucket,Serviceability Status,Estimated Delivery Time (mins)
+20001,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Noida,77,77,0,30,8,0,0,15,0,130.44,Saturday,Browser,<99,Serviceable,24
+20002,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Noida,77,77,0,0,8,0,0,0,0,162.44,Saturday,Browser,99-199,Serviceable,24
+20003,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Noida,77,77,0,0,8,0,0,0,0,239.44,Saturday,Browser,199+,Serviceable,24
+20004,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Amritsar,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20005,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Amritsar,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20006,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Amritsar,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20007,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Mumbai,87,87,0,30,8,0,0,15,0,140.44,Saturday,Browser,<99,Serviceable,10
+20008,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Mumbai,87,87,0,30,8,0,0,0,0,212.44,Saturday,Browser,99-199,Serviceable,10
+20009,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Mumbai,87,87,0,0,8,0,0,0,0,269.44,Saturday,Browser,199+,Serviceable,10
+20010,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Delhi,77,77,0,30,8,0,0,15,0,130.44,Saturday,Browser,<99,Serviceable,17
+20011,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Delhi,77,77,0,0,8,0,0,0,0,162.44,Saturday,Browser,99-199,Serviceable,17
+20012,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Delhi,77,77,0,0,8,0,0,0,0,239.44,Saturday,Browser,199+,Serviceable,17
+20013,76,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Kolkata,76,76,0,15,8,0,0,15,0,114.44,Saturday,Browser,<99,Serviceable,9
+20014,152,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Kolkata,76,76,0,15,8,0,0,0,0,175.44,Saturday,Browser,99-199,Serviceable,9
+20015,228,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Kolkata,76,76,0,0,8,0,0,0,0,236.44,Saturday,Browser,199+,Serviceable,9
+20016,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Bengaluru,87,87,0,30,8,0,0,15,0,140.44,Saturday,Browser,<99,Serviceable,5
+20017,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Bengaluru,87,87,0,30,8,0,0,0,0,212.44,Saturday,Browser,99-199,Serviceable,5
+20018,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Bengaluru,87,87,0,0,8,0,0,0,0,269.44,Saturday,Browser,199+,Serviceable,5
+20019,95,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Chennai,95,95,0,30,8,0,0,15,0,148.44,Saturday,Browser,<99,Serviceable,34
+20020,190,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Chennai,95,95,0,30,8,0,0,0,0,228.44,Saturday,Browser,99-199,Serviceable,34
+20021,285,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Chennai,95,95,0,0,8,0,0,0,0,293.44,Saturday,Browser,199+,Serviceable,34
+20022,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Hyderabad,87,87,0,30,8,0,0,15,0,140.44,Saturday,Browser,<99,Serviceable,18
+20023,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Hyderabad,87,87,0,30,8,0,0,0,0,212.44,Saturday,Browser,99-199,Serviceable,18
+20024,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Hyderabad,87,87,0,0,8,0,0,0,0,269.44,Saturday,Browser,199+,Serviceable,18
+20025,85,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Pune,85,85,0,30,8,0,0,15,0,138.44,Saturday,Browser,<99,Serviceable,23
+20026,170,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Pune,85,85,0,0,8,0,0,0,0,178.44,Saturday,Browser,99-199,Serviceable,23
+20027,255,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Pune,85,85,0,0,8,0,0,0,0,263.44,Saturday,Browser,199+,Serviceable,23
+20028,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Gurgaon,77,77,0,30,7,0,0,15,0,129.44,Saturday,Browser,<99,Serviceable,5
+20029,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Gurgaon,77,77,0,0,7,0,0,0,0,161.44,Saturday,Browser,99-199,Serviceable,5
+20030,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Gurgaon,77,77,0,0,7,0,0,0,0,238.44,Saturday,Browser,199+,Serviceable,5
+20031,,,,,,,,,,,,,,,,,,,,,,,,
+20032,,,,,,,,,,,,,,,,,,,,,,,,
+20033,,,,,,,,,,,,,,,,,,,,,,,,
+20034,,,,,,,,,,,,,,,,,,,,,,,,
+20035,,,,,,,,,,,,,,,,,,,,,,,,
+20036,,,,,,,,,,,,,,,,,,,,,,,,
+20037,,,,,,,,,,,,,,,,,,,,,,,,
+20038,,,,,,,,,,,,,,,,,,,,,,,,
+20039,,,,,,,,,,,,,,,,,,,,,,,,
+20040,,,,,,,,,,,,,,,,,,,,,,,,
+20041,,,,,,,,,,,,,,,,,,,,,,,,
+20042,,,,,,,,,,,,,,,,,,,,,,,,
+20043,,,,,,,,,,,,,,,,,,,,,,,,
+20044,,,,,,,,,,,,,,,,,,,,,,,,
+20045,,,,,,,,,,,,,,,,,,,,,,,,
+20046,,,,,,,,,,,,,,,,,,,,,,,,
+20047,,,,,,,,,,,,,,,,,,,,,,,,
+20048,,,,,,,,,,,,,,,,,,,,,,,,
+20049,,,,,,,,,,,,,,,,,,,,,,,,
+20050,,,,,,,,,,,,,,,,,,,,,,,,
+20051,,,,,,,,,,,,,,,,,,,,,,,,
+20052,,,,,,,,,,,,,,,,,,,,,,,,
+20053,,,,,,,,,,,,,,,,,,,,,,,,
+20054,,,,,,,,,,,,,,,,,,,,,,,,
+20055,,,,,,,,,,,,,,,,,,,,,,,,
+20056,,,,,,,,,,,,,,,,,,,,,,,,
+20057,,,,,,,,,,,,,,,,,,,,,,,,
+20058,,,,,,,,,,,,,,,,,,,,,,,,
+20059,,,,,,,,,,,,,,,,,,,,,,,,
+20060,,,,,,,,,,,,,,,,,,,,,,,,
+20061,,,,,,,,,,,,,,,,,,,,,,,,
+20062,,,,,,,,,,,,,,,,,,,,,,,,
+20063,,,,,,,,,,,,,,,,,,,,,,,,
+20064,,,,,,,,,,,,,,,,,,,,,,,,
+20065,,,,,,,,,,,,,,,,,,,,,,,,
+20066,,,,,,,,,,,,,,,,,,,,,,,,
+20067,,,,,,,,,,,,,,,,,,,,,,,,
+20068,,,,,,,,,,,,,,,,,,,,,,,,
+20069,,,,,,,,,,,,,,,,,,,,,,,,
+20070,,,,,,,,,,,,,,,,,,,,,,,,
+20071,,,,,,,,,,,,,,,,,,,,,,,,
+20072,,,,,,,,,,,,,,,,,,,,,,,,
+20073,,,,,,,,,,,,,,,,,,,,,,,,
+20074,,,,,,,,,,,,,,,,,,,,,,,,
+20075,,,,,,,,,,,,,,,,,,,,,,,,
+20076,,,,,,,,,,,,,,,,,,,,,,,,
+20077,,,,,,,,,,,,,,,,,,,,,,,,
+20078,,,,,,,,,,,,,,,,,,,,,,,,
+20079,,,,,,,,,,,,,,,,,,,,,,,,
+20080,,,,,,,,,,,,,,,,,,,,,,,,
+20081,,,,,,,,,,,,,,,,,,,,,,,,
+20082,,,,,,,,,,,,,,,,,,,,,,,,
+20083,,,,,,,,,,,,,,,,,,,,,,,,
+20084,,,,,,,,,,,,,,,,,,,,,,,,
+20085,,,,,,,,,,,,,,,,,,,,,,,,
+20086,,,,,,,,,,,,,,,,,,,,,,,,
+20087,,,,,,,,,,,,,,,,,,,,,,,,
+20088,,,,,,,,,,,,,,,,,,,,,,,,
+20089,,,,,,,,,,,,,,,,,,,,,,,,
+20090,,,,,,,,,,,,,,,,,,,,,,,,
+20091,,,,,,,,,,,,,,,,,,,,,,,,
+20092,,,,,,,,,,,,,,,,,,,,,,,,
+20093,,,,,,,,,,,,,,,,,,,,,,,,
+20094,,,,,,,,,,,,,,,,,,,,,,,,
+20095,,,,,,,,,,,,,,,,,,,,,,,,
+20096,,,,,,,,,,,,,,,,,,,,,,,,
+20097,,,,,,,,,,,,,,,,,,,,,,,,
+20098,,,,,,,,,,,,,,,,,,,,,,,,
+20099,,,,,,,,,,,,,,,,,,,,,,,,
+20100,,,,,,,,,,,,,,,,,,,,,,,,
