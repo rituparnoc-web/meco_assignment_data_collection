@@ -1,0 +1,181 @@
+Order_ID,Order_Value,Platform,Product,Product_Category,Product_Count,Pack Size,Date,Time,City,MRP,Listed Price,Discount,Delivery Fee,Handling Fee,Rain Fee,Late Night Fee,Surge Charge,Small Cart Fee,Platform Fee,Final Price,Day,Device (Apple/Android),Bucket,Serviceability Status,Estimated Delivery Time (mins)
+20001,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:50,Noida,77,77,0,30,8,0,0,,15,0,130.44,Saturday,Browser,<99,Serviceable,24
+20002,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:50,Noida,77,77,0,0,8,0,0,,0,0,162.44,Saturday,Browser,99-199,Serviceable,24
+20003,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:50,Noida,77,77,0,0,8,0,0,,0,0,239.44,Saturday,Browser,199+,Serviceable,24
+20004,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:52,Amritsar,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20005,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:52,Amritsar,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20006,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:52,Amritsar,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20007,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:54,Mumbai,87,87,0,30,8,0,0,,15,0,140.44,Saturday,Browser,<99,Serviceable,10
+20008,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:54,Mumbai,87,87,0,30,8,0,0,,0,0,212.44,Saturday,Browser,99-199,Serviceable,10
+20009,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:54,Mumbai,87,87,0,0,8,0,0,,0,0,269.44,Saturday,Browser,199+,Serviceable,10
+20010,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:56,Delhi,77,77,0,30,8,0,0,,15,0,130.44,Saturday,Browser,<99,Serviceable,17
+20011,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:56,Delhi,77,77,0,0,8,0,0,,0,0,162.44,Saturday,Browser,99-199,Serviceable,17
+20012,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:56,Delhi,77,77,0,0,8,0,0,,0,0,239.44,Saturday,Browser,199+,Serviceable,17
+20013,76,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,14:58,Kolkata,76,76,0,15,8,0,0,,15,0,114.44,Saturday,Browser,<99,Serviceable,9
+20014,152,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,14:58,Kolkata,76,76,0,15,8,0,0,,0,0,175.44,Saturday,Browser,99-199,Serviceable,9
+20015,228,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,14:58,Kolkata,76,76,0,0,8,0,0,,0,0,236.44,Saturday,Browser,199+,Serviceable,9
+20016,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,15:00,Bengaluru,87,87,0,30,8,0,0,,15,0,140.44,Saturday,Browser,<99,Serviceable,5
+20017,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,15:00,Bengaluru,87,87,0,30,8,0,0,,0,0,212.44,Saturday,Browser,99-199,Serviceable,5
+20018,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,15:00,Bengaluru,87,87,0,0,8,0,0,,0,0,269.44,Saturday,Browser,199+,Serviceable,5
+20019,95,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,15:02,Chennai,95,95,0,30,8,0,0,,15,0,148.44,Saturday,Browser,<99,Serviceable,34
+20020,190,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,15:02,Chennai,95,95,0,30,8,0,0,,0,0,228.44,Saturday,Browser,99-199,Serviceable,34
+20021,285,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,15:02,Chennai,95,95,0,0,8,0,0,,0,0,293.44,Saturday,Browser,199+,Serviceable,34
+20022,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,15:04,Hyderabad,87,87,0,30,8,0,0,,15,0,140.44,Saturday,Browser,<99,Serviceable,18
+20023,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,15:04,Hyderabad,87,87,0,30,8,0,0,,0,0,212.44,Saturday,Browser,99-199,Serviceable,18
+20024,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,15:04,Hyderabad,87,87,0,0,8,0,0,,0,0,269.44,Saturday,Browser,199+,Serviceable,18
+20025,85,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,15:06,Pune,85,85,0,30,8,0,0,,15,0,138.44,Saturday,Browser,<99,Serviceable,23
+20026,170,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,15:06,Pune,85,85,0,0,8,0,0,,0,0,178.44,Saturday,Browser,99-199,Serviceable,23
+20027,255,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,15:06,Pune,85,85,0,0,8,0,0,,0,0,263.44,Saturday,Browser,199+,Serviceable,23
+20028,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,15:08,Gurgaon,77,77,0,30,7,0,0,,15,0,129.44,Saturday,Browser,<99,Serviceable,5
+20029,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,15:08,Gurgaon,77,77,0,0,7,0,0,,0,0,161.44,Saturday,Browser,99-199,Serviceable,5
+20030,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,15:08,Gurgaon,77,77,0,0,7,0,0,,0,0,238.44,Saturday,Browser,199+,Serviceable,5
+20031,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:32,Noida,77,77,0,30,8,0,9,,15,0,139.44,Saturday,Browser,<99,Serviceable,30
+20032,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:32,Noida,77,77,0,0,8,0,9,,0,0,171.44,Saturday,Browser,99-199,Serviceable,30
+20033,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:32,Noida,77,77,0,0,8,0,9,,0,0,248.44,Saturday,Browser,199+,Serviceable,30
+20034,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:34,Amritsar,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20035,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:34,Amritsar,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20036,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:34,Amritsar,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20037,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:36,Mumbai,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20038,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:36,Mumbai,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20039,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:36,Mumbai,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20040,77,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:38,Delhi,77,77,0,30,8,0,9,,15,0,139.44,Saturday,Browser,<99,Serviceable,18
+20041,154,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:38,Delhi,77,77,0,0,8,0,9,,0,0,171.44,Saturday,Browser,99-199,Serviceable,18
+20042,231,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:38,Delhi,77,77,0,0,8,0,9,,0,0,248.44,Saturday,Browser,199+,Serviceable,18
+20043,76,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:40,Kolkata,76,76,0,15,8,0,9,,15,0,123.44,Saturday,Browser,<99,Serviceable,27
+20044,152,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:40,Kolkata,76,76,0,15,8,0,9,,0,0,184.44,Saturday,Browser,99-199,Serviceable,27
+20045,228,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:40,Kolkata,76,76,0,0,8,0,9,,0,0,245.44,Saturday,Browser,199+,Serviceable,27
+20046,87,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:42,Bengaluru,87,87,0,30,8,0,9,,15,0,149.44,Saturday,Browser,<99,Serviceable,5
+20047,174,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:42,Bengaluru,87,87,0,30,8,0,9,,0,0,221.44,Saturday,Browser,99-199,Serviceable,5
+20048,261,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:42,Bengaluru,87,87,0,0,8,0,9,,0,0,278.44,Saturday,Browser,199+,Serviceable,5
+20049,95,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:44,Chennai,95,95,0,30,8,0,9,,15,0,157.44,Saturday,Browser,<99,Serviceable,22
+20050,190,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:44,Chennai,95,95,0,30,8,0,9,,0,0,237.44,Saturday,Browser,99-199,Serviceable,22
+20051,285,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:44,Chennai,95,95,0,0,8,0,9,,0,0,302.44,Saturday,Browser,199+,Serviceable,22
+20052,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:46,Hyderabad,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20053,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:46,Hyderabad,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20054,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:46,Hyderabad,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20055,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:48,Pune,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20056,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:48,Pune,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20057,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:48,Pune,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20058,,Bigbasket,Surf Excel,Detergent,1,500 g,17-10-2026,23:50,Gurgaon,,,,,,,,,,,,Saturday,Browser,<99,Not serviceable,
+20059,,Bigbasket,Surf Excel,Detergent,2,500 g,17-10-2026,23:50,Gurgaon,,,,,,,,,,,,Saturday,Browser,99-199,Not serviceable,
+20060,,Bigbasket,Surf Excel,Detergent,3,500 g,17-10-2026,23:50,Gurgaon,,,,,,,,,,,,Saturday,Browser,199+,Not serviceable,
+20061,77,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:14,Noida,77,77,0,30,8,0,0,,15,0,130.44,Sunday,Browser,<99,Serviceable,13
+20062,154,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:14,Noida,77,77,0,0,8,0,0,,0,0,162.44,Sunday,Browser,99-199,Serviceable,13
+20063,231,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:14,Noida,77,77,0,0,8,0,0,,0,0,239.44,Sunday,Browser,199+,Serviceable,13
+20064,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:16,Amritsar,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20065,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:16,Amritsar,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20066,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:16,Amritsar,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20067,87,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:18,Mumbai,87,87,0,30,8,0,0,,15,0,140.44,Sunday,Browser,<99,Serviceable,13
+20068,174,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:18,Mumbai,87,87,0,30,8,0,0,,0,0,212.44,Sunday,Browser,99-199,Serviceable,13
+20069,261,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:18,Mumbai,87,87,0,0,8,0,0,,0,0,269.44,Sunday,Browser,199+,Serviceable,13
+20070,77,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:20,Delhi,77,77,0,30,8,0,0,15,15,0,145.44,Sunday,Browser,<99,Serviceable,38
+20071,154,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:20,Delhi,77,77,0,0,8,0,0,0,0,0,162.44,Sunday,Browser,99-199,Serviceable,38
+20072,231,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:20,Delhi,77,77,0,0,8,0,0,0,0,0,239.44,Sunday,Browser,199+,Serviceable,38
+20073,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:22,Kolkata,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20074,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:22,Kolkata,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20075,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:22,Kolkata,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20076,87,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:24,Bengaluru,87,87,0,30,8,0,0,,15,0,140.44,Sunday,Browser,<99,Serviceable,5
+20077,174,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:24,Bengaluru,87,87,0,30,8,0,0,,0,0,212.44,Sunday,Browser,99-199,Serviceable,5
+20078,261,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:24,Bengaluru,87,87,0,0,8,0,0,,0,0,269.44,Sunday,Browser,199+,Serviceable,5
+20079,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:26,Chennai,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20080,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:26,Chennai,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20081,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:26,Chennai,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20082,87,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:28,Hyderabad,87,87,0,30,8,0,0,15,15,0,155.44,Sunday,Browser,<99,Serviceable,18
+20083,174,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:28,Hyderabad,87,87,0,30,8,0,0,15,0,0,227.44,Sunday,Browser,99-199,Serviceable,18
+20084,261,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:28,Hyderabad,87,87,0,0,8,0,0,15,0,0,284.44,Sunday,Browser,199+,Serviceable,18
+20085,85,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:30,Pune,85,85,0,30,8,0,0,0,15,0,138.44,Sunday,Browser,<99,Serviceable,18
+20086,170,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:30,Pune,85,85,0,0,8,0,0,0,0,0,178.44,Sunday,Browser,99-199,Serviceable,18
+20087,255,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:30,Pune,85,85,0,0,8,0,0,0,0,0,263.44,Sunday,Browser,199+,Serviceable,18
+20088,77,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,18:32,Gurgaon,77,77,0,30,7,0,0,0,15,0,129.44,Sunday,Browser,<99,Serviceable,8
+20089,154,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,18:32,Gurgaon,77,77,0,0,7,0,0,0,0,0,161.44,Sunday,Browser,99-199,Serviceable,8
+20090,231,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,18:32,Gurgaon,77,77,0,0,7,0,0,0,0,0,238.44,Sunday,Browser,199+,Serviceable,8
+20091,77,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:31,Noida,77,77,0,30,8,0,9,,15,0,139.44,Sunday,Browser,<99,Serviceable,30
+20092,154,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:31,Noida,77,77,0,0,8,0,9,,0,0,171.44,Sunday,Browser,99-199,Serviceable,30
+20093,231,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:31,Noida,77,77,0,0,8,0,9,,0,0,248.44,Sunday,Browser,199+,Serviceable,30
+20094,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:33,Amritsar,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20095,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:33,Amritsar,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20096,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:33,Amritsar,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20097,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:35,Mumbai,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20098,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:35,Mumbai,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20099,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:35,Mumbai,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20100,77,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:37,Delhi,77,77,0,30,8,0,9,15,15,0,154.44,Sunday,Browser,<99,Serviceable,18
+20101,154,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:37,Delhi,77,77,0,0,8,0,9,0,0,0,171.44,Sunday,Browser,99-199,Serviceable,18
+20102,231,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:37,Delhi,77,77,0,0,8,0,9,0,0,0,248.44,Sunday,Browser,199+,Serviceable,18
+20103,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:39,Kolkata,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20104,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:39,Kolkata,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20105,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:39,Kolkata,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20106,87,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:41,Bengaluru,87,87,0,30,8,0,9,,15,0,149.44,Sunday,Browser,<99,Serviceable,5
+20107,174,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:41,Bengaluru,87,87,0,30,8,0,9,,0,0,221.44,Sunday,Browser,99-199,Serviceable,5
+20108,261,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:41,Bengaluru,87,87,0,0,8,0,9,,0,0,278.44,Sunday,Browser,199+,Serviceable,5
+20109,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:43,Chennai,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20110,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:43,Chennai,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20111,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:43,Chennai,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20112,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:45,Hyderabad,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20113,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:45,Hyderabad,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20114,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:45,Hyderabad,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20115,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:47,Pune,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20116,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:47,Pune,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20117,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:47,Pune,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20118,,Bigbasket,Surf Excel,Detergent,1,500 g,18-10-2026,23:49,Gurgaon,,,,,,,,,,,,Sunday,Browser,<99,Not serviceable,
+20119,,Bigbasket,Surf Excel,Detergent,2,500 g,18-10-2026,23:49,Gurgaon,,,,,,,,,,,,Sunday,Browser,99-199,Not serviceable,
+20120,,Bigbasket,Surf Excel,Detergent,3,500 g,18-10-2026,23:49,Gurgaon,,,,,,,,,,,,Sunday,Browser,199+,Not serviceable,
+20121,77,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:17,Noida,77,77,0,30,8,0,0,,15,0,130.44,Monday,Browser,<99,Serviceable,18
+20122,154,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:17,Noida,77,77,0,0,8,0,0,,0,0,162.44,Monday,Browser,99-199,Serviceable,18
+20123,231,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:17,Noida,77,77,0,0,8,0,0,,0,0,239.44,Monday,Browser,199+,Serviceable,18
+20124,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:19,Amritsar,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20125,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:19,Amritsar,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20126,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:19,Amritsar,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
+20127,87,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:21,Mumbai,87,87,0,30,8,0,0,,15,0,140.44,Monday,Browser,<99,Serviceable,10
+20128,174,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:21,Mumbai,87,87,0,30,8,0,0,,0,0,212.44,Monday,Browser,99-199,Serviceable,10
+20129,261,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:21,Mumbai,87,87,0,0,8,0,0,,0,0,269.44,Monday,Browser,199+,Serviceable,10
+20130,77,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:23,Delhi,77,77,0,30,8,0,0,15,15,0,145.44,Monday,Browser,<99,Serviceable,10
+20131,154,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:23,Delhi,77,77,0,0,8,0,0,0,0,0,162.44,Monday,Browser,99-199,Serviceable,10
+20132,231,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:23,Delhi,77,77,0,0,8,0,0,0,0,0,239.44,Monday,Browser,199+,Serviceable,10
+20133,76,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:25,Kolkata,76,76,0,15,8,0,0,,15,0,114.44,Monday,Browser,<99,Serviceable,14
+20134,152,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:25,Kolkata,76,76,0,15,8,0,0,,0,0,175.44,Monday,Browser,99-199,Serviceable,14
+20135,228,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:25,Kolkata,76,76,0,0,8,0,0,,0,0,236.44,Monday,Browser,199+,Serviceable,14
+20136,87,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:27,Bengaluru,87,87,0,30,8,0,0,,15,0,140.44,Monday,Browser,<99,Serviceable,5
+20137,174,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:27,Bengaluru,87,87,0,30,8,0,0,,0,0,212.44,Monday,Browser,99-199,Serviceable,5
+20138,261,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:27,Bengaluru,87,87,0,0,8,0,0,,0,0,269.44,Monday,Browser,199+,Serviceable,5
+20139,95,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:29,Chennai,95,95,0,30,8,0,0,15,15,0,163.44,Monday,Browser,<99,Serviceable,21
+20140,190,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:29,Chennai,95,95,0,30,8,0,0,15,0,0,243.44,Monday,Browser,99-199,Serviceable,21
+20141,285,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:29,Chennai,95,95,0,0,8,0,0,15,0,0,308.44,Monday,Browser,199+,Serviceable,21
+20142,85,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:31,Hyderabad,85,85,0,30,8,0,0,15,15,0,153.44,Monday,Browser,<99,Serviceable,15
+20143,170,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:31,Hyderabad,85,85,0,30,8,0,0,15,0,0,223.44,Monday,Browser,99-199,Serviceable,15
+20144,255,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:31,Hyderabad,85,85,0,0,8,0,0,15,0,0,278.44,Monday,Browser,199+,Serviceable,15
+20145,85,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:33,Pune,85,85,0,30,8,0,0,0,15,0,138.44,Monday,Browser,<99,Serviceable,13
+20146,170,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:33,Pune,85,85,0,0,8,0,0,0,0,0,178.44,Monday,Browser,99-199,Serviceable,13
+20147,255,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:33,Pune,85,85,0,0,8,0,0,0,0,0,263.44,Monday,Browser,199+,Serviceable,13
+20148,77,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,20:35,Gurgaon,77,77,0,30,7,0,0,0,15,0,129.44,Monday,Browser,<99,Serviceable,9
+20149,154,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,20:35,Gurgaon,77,77,0,0,7,0,0,0,0,0,161.44,Monday,Browser,99-199,Serviceable,9
+20150,231,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,20:35,Gurgaon,77,77,0,0,7,0,0,0,0,0,238.44,Monday,Browser,199+,Serviceable,9
+20151,77,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:34,Noida,77,77,0,30,8,0,9,,15,0,139.44,Monday,Browser,<99,Serviceable,30
+20152,154,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:34,Noida,77,77,0,0,8,0,9,,0,0,171.44,Monday,Browser,99-199,Serviceable,30
+20153,231,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:34,Noida,77,77,0,0,8,0,9,,0,0,248.44,Monday,Browser,199+,Serviceable,30
+20154,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:36,Amritsar,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20155,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:36,Amritsar,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20156,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:36,Amritsar,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
+20157,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:36,Mumbai,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20158,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:36,Mumbai,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20159,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:36,Mumbai,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
+20160,77,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:38,Delhi,77,77,0,30,8,0,9,,15,0,139.44,Monday,Browser,<99,Serviceable,18
+20161,154,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:38,Delhi,77,77,0,0,8,0,9,,0,0,171.44,Monday,Browser,99-199,Serviceable,18
+20162,231,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:38,Delhi,77,77,0,0,8,0,9,,0,0,248.44,Monday,Browser,199+,Serviceable,18
+20163,76,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:40,Kolkata,76,76,0,15,8,0,9,,15,0,123.44,Monday,Browser,<99,Serviceable,27
+20164,152,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:40,Kolkata,76,76,0,15,8,0,9,,0,0,184.44,Monday,Browser,99-199,Serviceable,27
+20165,228,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:40,Kolkata,76,76,0,0,8,0,9,,0,0,245.44,Monday,Browser,199+,Serviceable,27
+20166,87,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:42,Bengaluru,87,87,0,30,8,0,9,,15,0,149.44,Monday,Browser,<99,Serviceable,5
+20167,174,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:42,Bengaluru,87,87,0,30,8,0,9,,0,0,221.44,Monday,Browser,99-199,Serviceable,5
+20168,261,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:42,Bengaluru,87,87,0,0,8,0,9,,0,0,278.44,Monday,Browser,199+,Serviceable,5
+20169,95,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:44,Chennai,95,95,0,30,8,0,9,,15,0,157.44,Monday,Browser,<99,Serviceable,22
+20170,190,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:44,Chennai,95,95,0,30,8,0,9,,0,0,237.44,Monday,Browser,99-199,Serviceable,22
+20171,285,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:44,Chennai,95,95,0,0,8,0,9,,0,0,302.44,Monday,Browser,199+,Serviceable,22
+20172,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:46,Hyderabad,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20173,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:46,Hyderabad,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20174,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:46,Hyderabad,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
+20175,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:48,Pune,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20176,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:48,Pune,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20177,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:48,Pune,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
+20178,,Bigbasket,Surf Excel,Detergent,1,500 g,19-10-2026,23:50,Gurgaon,,,,,,,,,,,,Monday,Browser,<99,Not serviceable,
+20179,,Bigbasket,Surf Excel,Detergent,2,500 g,19-10-2026,23:50,Gurgaon,,,,,,,,,,,,Monday,Browser,99-199,Not serviceable,
+20180,,Bigbasket,Surf Excel,Detergent,3,500 g,19-10-2026,23:50,Gurgaon,,,,,,,,,,,,Monday,Browser,199+,Not serviceable,
